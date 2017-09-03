@@ -1,6 +1,7 @@
 # FTC6299
-The repository for FTC 6299 QuadX 2016-2017 season. 
+The repository for FTC 6299 QuadX 2017-2018 season. 
 
 Contributors:
-Joshua Johnson
 Alex Tan
+Devan Patel 
+Caleb Browne
